@@ -99,9 +99,9 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 
 ### 2. Clone Repository
 ```bash
-git clone 
+
 ```
-https://github.com/pari25bce10209-code/Resume-Skill-Gap-Predictor/blob/main/skill_gap.py
+git clone https://github.com/pari25bce10209-code/Resume-Skill-Gap-Predictor.git
 ---
 
 ### 3. Prepare Data
@@ -109,6 +109,8 @@ Place datasets in the `data/` folder:
 
 - `resume_dataset.csv`
 - `job_descriptions.csv`
+- or upload your own dataset of resume and job description
+  just not that-
 
 Notes:
 - Resume dataset must contain a skills column  
