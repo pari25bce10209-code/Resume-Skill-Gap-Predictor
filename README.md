@@ -2,7 +2,7 @@
                                                   A Project in Fundamentals of AI & ML    
 Submitted by: Pari Gangil 
 
-Detsiled Readme- https://github.com/pari25bce10209-code/Resume-Skill-Gap-Predictor/blob/main/README.pdf
+Detailed Readme- https://github.com/pari25bce10209-code/Resume-Skill-Gap-Predictor/blob/main/README.pdf
 # Resume Skill Gap Predictor 
 
 ## Project Overview
@@ -101,7 +101,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 ```bash
 git clone 
 ```
-
+https://github.com/pari25bce10209-code/Resume-Skill-Gap-Predictor/blob/main/skill_gap.py
 ---
 
 ### 3. Prepare Data
