@@ -1,6 +1,7 @@
                                                          Resume Skill Gap Predictor
                                                   A Project in Fundamentals of AI & ML    
 Submitted by: Pari Gangil 
+Registration no-25BCE10209
 
 Detailed Readme- https://github.com/pari25bce10209-code/Resume-Skill-Gap-Predictor/blob/main/README.pdf
 # Resume Skill Gap Predictor 
