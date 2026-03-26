@@ -1,7 +1,9 @@
                                                          Resume Skill Gap Predictor
                                                   A Project in Fundamentals of AI & ML    
-Submitted by: Pari Gangil                                                         
-# Resume Skill Gap Predictor
+Submitted by: Pari Gangil 
+
+Detsiled Readme- https://github.com/pari25bce10209-code/Resume-Skill-Gap-Predictor/blob/main/README.pdf
+# Resume Skill Gap Predictor 
 
 ## Project Overview
 The Resume Skill Gap Predictor is a machine learning-based tool designed to compare resumes with job descriptions, identify missing skills, and generate an AI Fit Score. It helps recruiters shortlist candidates efficiently and provides students with clear feedback on skill gaps.
