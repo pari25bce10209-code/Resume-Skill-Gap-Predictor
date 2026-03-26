@@ -1,0 +1,214 @@
+Resume_ID,Job_ID,Matched_Skills,Missing_Skills,Match_Percentage,AI_Fit_Score
+RES-F-003,J?,javascript,"css3, angular, mysql, git, ui/ux, ajax, node.js, fundamentals, apis, react, github, responsive, mongodb, restful, design, basics, php, html5",6.67%,1.56
+RES-F-003,J?,javascript,"css3, mysql, vue.js, git, node.js, json, apis, responsive, rest, design, basics, python, html5",9.09%,0.37
+RES-F-003,J?,javascript,"css3, angular, mysql, git, node.js, ajax, react, apis, rest, basics, html5",10.0%,0.37
+RES-F-003,J?,javascript,"css3, git, node.js, ajax, ui/ux, fundamentals, react, mongodb, basics, php, html5",10.0%,1.32
+RES-F-003,J?,javascript,"css3, mysql, vue.js, git, node.js, apis, responsive, rest, design, basics, html5",11.11%,0.21
+RES-F-003,J?,javascript,"css3, angular, mysql, git, node.js, apis, rest, basics, python, html5",11.11%,0.49
+RES-F-003,J?,javascript,"css3, git, node.js, react, apis, responsive, mongodb, rest, design, basics, html5",11.11%,0.22
+RES-F-003,J?,javascript,"css3, angular, mysql, git, node.js, apis, rest, basics, php, html5",11.11%,0.5
+RES-F-003,J?,javascript,"css3, mysql, git, node.js, ajax, ui/ux, fundamentals, react, apis, rest, basics, html5",10.0%,0.24
+RES-F-003,J?,javascript,"css3, vue.js, git, node.js, ajax, apis, mongodb, rest, basics, html5",11.11%,0.32
+RES-F-003,J?,javascript,"ci/cd, express.js, node.js, aws, sql, react, apis, typescript, mongodb, rest, graphql, docker",8.33%,0.04
+RES-F-003,J?,javascript,"angular, ci/cd, express.js, node.js, aws, with, sql, typescript, redis, jest, testing, docker, django",8.33%,0.07
+RES-F-003,J?,javascript,"express.js, node.js, aws, kubernetes, react, apis, mongodb, rest, graphql, docker",10.0%,0.01
+RES-F-003,J?,javascript,"jest/enzyme, express.js, node.js, with, aws, sql, typescript, redis, testing, docker, vue.js",10.0%,0.11
+RES-F-003,J?,javascript,"ci/cd, express.js, node.js, aws, sql, kubernetes, react, mongodb, graphql, docker",9.09%,0.1
+RES-F-003,J?,javascript,"angular, ci/cd, express.js, node.js, aws, sql, frameworks, redis, testing, docker, django",9.09%,0.09
+RES-F-003,J?,javascript,"express.js, node.js, sql, kubernetes, react, apis, typescript, mongodb, rest, graphql, docker",9.09%,0.04
+RES-F-003,J?,javascript,"ci/cd, express.js, node.js, jest/enzyme, aws, with, sql, redis, testing, docker, vue.js",10.0%,0.09
+RES-F-003,J?,javascript,"express.js, node.js, aws, kubernetes, react, apis, mongodb, rest, graphql, docker",10.0%,0.01
+RES-F-003,J?,javascript,"angular, ci/cd, express.js, node.js, jest/enzyme, aws, with, sql, typescript, redis, testing, docker",9.09%,0.07
+RES-F-004,J?,aws,"ci/cd, security, pipelines, cloud, kubernetes, terraform, scripting, compliance, azure, python",14.29%,0.22
+RES-F-006,J?,"asp.net, sql, html, c#, server, css","git, fundamentals, javascript, unit, vb.net, studio, framework, mvc, core, visual, testing, basics, entity, .net, linq",33.33%,75.95
+RES-F-006,J?,"asp.net, sql, html, c#, server, css","razor, javascript, nunit, framework, basics, entity, .net",50.0%,99.59
+RES-F-006,J?,"asp.net, sql, html, c#, server, css","git, javascript, vb.net, mvc, core, basics, .net",44.44%,84.57
+RES-F-006,J?,"asp.net, sql, html, c#, server, css","studio, framework, visual, basics, .net, linq",50.0%,61.1
+RES-F-006,J?,"asp.net, sql, html, c#, server, css","javascript, framework, mvc, basics, entity",62.5%,90.15
+RES-F-006,J?,"sql, asp.net, server, c#","razor, git, nunit, framework, basics, .net",42.86%,96.27
+RES-F-006,J?,"asp.net, sql, html, c#, server, css","studio, vb.net, mvc, core, visual, basics, .net",50.0%,28.01
+RES-F-006,J?,"sql, asp.net, server, c#","framework, mvc, basics, entity, .net, linq",33.33%,89.12
+RES-F-006,J?,"asp.net, sql, html, c#, server, css",".net, framework",83.33%,90.87
+RES-F-006,J?,"sql, asp.net, server, c#","git, framework, mvc, core, basics, entity, .net",33.33%,84.03
+RES-F-006,J?,"sql, asp.net, server, c#","apis, framework, rest, mvc, core, azure, entity, docker, .net",25.0%,14.97
+RES-F-006,J?,"sql, asp.net, server, c#","patterns, devops, principles, framework, solid, core, design, azure, entity",28.57%,14.8
+RES-F-006,J?,"asp.net, c#","f#, kubernetes, microservices, mvc, core, azure, docker, .net",12.5%,4.01
+RES-F-006,J?,"sql, asp.net, server, c#","nosql, webapi, framework, core, signalr, entity",28.57%,27.02
+RES-F-006,J?,"sql, asp.net, server, c#","angular, dapper, mvc, core, blazor, .net",28.57%,15.04
+RES-F-006,J?,"asp.net, c#","devops, with, nunit, apis, rest, mvc, core, azure, testing, docker, .net",14.29%,1.35
+RES-F-006,J?,"sql, asp.net, server, c#","grpc, core, azure, webapi",33.33%,86.29
+RES-F-006,J?,"asp.net, c#","principles, kubernetes, microservices, framework, solid, core, azure, entity",14.29%,4.93
+RES-F-006,J?,"asp.net, c#","with, xunit, mvc, core, azure, testing, .net, moq",16.67%,5.53
+RES-F-006,J?,"asp.net, c#","devops, ci/cd, kubernetes, apis, rest, mvc, core, azure, docker, .net",12.5%,0.97
+RES-F-009,J?,"wireshark, linux, basics, python, firewall","incident, encryption, snort, nessus, c++, response, configuration",22.22%,1.37
+RES-F-009,J?,"python, security","incident, (aws/azure), bash, management, splunk, cloud, threat, response, qradar, hunting, risk",12.5%,0.42
+RES-F-013,J?,"javascript, react","css3, angular, mysql, git, ui/ux, ajax, node.js, fundamentals, apis, github, responsive, mongodb, restful, design, basics, php, html5",6.67%,1.24
+RES-F-013,J?,javascript,"css3, mysql, vue.js, git, node.js, json, apis, responsive, rest, design, basics, python, html5",9.09%,0.29
+RES-F-013,J?,"javascript, react","css3, angular, mysql, git, node.js, ajax, apis, rest, basics, html5",10.0%,0.29
+RES-F-013,J?,"javascript, react","css3, git, node.js, ajax, ui/ux, fundamentals, mongodb, basics, php, html5",10.0%,1.05
+RES-F-013,J?,javascript,"css3, mysql, vue.js, git, node.js, apis, responsive, rest, design, basics, html5",11.11%,0.17
+RES-F-013,J?,javascript,"css3, angular, mysql, git, node.js, apis, rest, basics, python, html5",11.11%,0.39
+RES-F-013,J?,"javascript, react","css3, git, node.js, apis, responsive, mongodb, rest, design, basics, html5",11.11%,0.18
+RES-F-013,J?,javascript,"css3, angular, mysql, git, node.js, apis, rest, basics, php, html5",11.11%,0.4
+RES-F-013,J?,"javascript, react","css3, mysql, git, node.js, ajax, ui/ux, fundamentals, apis, rest, basics, html5",10.0%,0.19
+RES-F-013,J?,javascript,"css3, vue.js, git, node.js, ajax, apis, mongodb, rest, basics, html5",11.11%,0.25
+RES-F-013,J?,"javascript, react","ci/cd, express.js, node.js, aws, sql, apis, typescript, mongodb, rest, graphql, docker",16.67%,0.03
+RES-F-013,J?,javascript,"angular, ci/cd, express.js, node.js, aws, with, sql, typescript, redis, jest, testing, docker, django",8.33%,0.06
+RES-F-013,J?,"javascript, react","express.js, node.js, aws, kubernetes, apis, mongodb, rest, graphql, docker",20.0%,0.01
+RES-F-013,J?,javascript,"jest/enzyme, express.js, node.js, with, aws, sql, typescript, redis, testing, docker, vue.js",10.0%,0.08
+RES-F-013,J?,"javascript, react","ci/cd, express.js, node.js, aws, sql, kubernetes, mongodb, graphql, docker",18.18%,0.08
+RES-F-013,J?,javascript,"angular, ci/cd, express.js, node.js, aws, sql, frameworks, redis, testing, docker, django",9.09%,0.07
+RES-F-013,J?,"javascript, react","express.js, node.js, sql, kubernetes, apis, typescript, mongodb, rest, graphql, docker",18.18%,0.03
+RES-F-013,J?,javascript,"ci/cd, express.js, node.js, jest/enzyme, aws, with, sql, redis, testing, docker, vue.js",10.0%,0.08
+RES-F-013,J?,"javascript, react","express.js, node.js, aws, kubernetes, apis, mongodb, rest, graphql, docker",20.0%,0.01
+RES-F-013,J?,javascript,"angular, ci/cd, express.js, node.js, jest/enzyme, aws, with, sql, typescript, redis, testing, docker",9.09%,0.06
+RES-F-014,J?,azure,"ci/cd, aws, pipelines, cloud, kubernetes, security, terraform, scripting, compliance, python",14.29%,0.63
+RES-F-016,J?,"asp.net, sql, framework, c#, mvc, server, basics, entity","git, fundamentals, javascript, unit, html, vb.net, studio, core, visual, testing, css, .net, linq",33.33%,66.85
+RES-F-016,J?,"asp.net, sql, framework, c#, server, basics, entity","razor, javascript, html, nunit, css, .net",40.0%,99.36
+RES-F-016,J?,"asp.net, sql, c#, server, mvc, basics","git, javascript, html, vb.net, core, css, .net",22.22%,77.78
+RES-F-016,J?,"asp.net, sql, framework, c#, server, basics","html, studio, visual, css, .net, linq",25.0%,50.07
+RES-F-016,J?,"asp.net, sql, framework, c#, mvc, server, basics, entity","javascript, html, css",62.5%,85.39
+RES-F-016,J?,"asp.net, sql, framework, c#, server, basics","razor, nunit, git, .net",42.86%,94.27
+RES-F-016,J?,"asp.net, sql, c#, server, mvc, basics","html, studio, vb.net, core, visual, css, .net",25.0%,19.9
+RES-F-016,J?,"asp.net, sql, framework, c#, mvc, server, basics, entity",".net, linq",50.0%,83.94
+RES-F-016,J?,"asp.net, sql, framework, c#, server","html, .net, css",50.0%,86.41
+RES-F-016,J?,"asp.net, sql, framework, c#, mvc, server, basics, entity","git, core, .net",50.0%,77.07
+RES-F-016,J?,"asp.net, sql, framework, c#, mvc, server, entity","apis, rest, core, azure, docker, .net",25.0%,10.1
+RES-F-016,J?,"asp.net, sql, framework, c#, server, entity","patterns, devops, principles, solid, core, design, azure",28.57%,9.98
+RES-F-016,J?,"asp.net, mvc, c#","f#, kubernetes, microservices, core, azure, docker, .net",12.5%,2.6
+RES-F-016,J?,"asp.net, sql, framework, c#, server, entity","nosql, core, signalr, webapi",28.57%,19.12
+RES-F-016,J?,"asp.net, sql, c#, server, mvc","angular, dapper, core, blazor, .net",28.57%,10.15
+RES-F-016,J?,"asp.net, mvc, c#","devops, with, nunit, apis, rest, core, azure, testing, docker, .net",14.29%,0.87
+RES-F-016,J?,"sql, asp.net, server, c#","grpc, core, azure, webapi",33.33%,80.07
+RES-F-016,J?,"asp.net, entity, c#, framework","principles, kubernetes, microservices, solid, core, azure",14.29%,3.21
+RES-F-016,J?,"asp.net, mvc, c#","with, xunit, core, azure, testing, .net, moq",16.67%,3.6
+RES-F-016,J?,"asp.net, mvc, c#","devops, ci/cd, kubernetes, apis, rest, core, azure, docker, .net",12.5%,0.62
+RES-F-019,J?,"wireshark, python, linux, firewall","incident, encryption, snort, nessus, c++, response, basics, configuration",22.22%,0.7
+RES-F-019,J?,"python, security","incident, (aws/azure), bash, management, splunk, cloud, threat, response, qradar, hunting, risk",12.5%,0.21
+RES-F-023,J?,"javascript, react","css3, angular, mysql, git, ui/ux, ajax, node.js, fundamentals, apis, github, responsive, mongodb, restful, design, basics, php, html5",6.67%,1.17
+RES-F-023,J?,javascript,"css3, mysql, vue.js, git, node.js, json, apis, responsive, rest, design, basics, python, html5",9.09%,0.27
+RES-F-023,J?,"javascript, react","css3, angular, mysql, git, node.js, ajax, apis, rest, basics, html5",10.0%,0.28
+RES-F-023,J?,"javascript, react","css3, git, node.js, ajax, ui/ux, fundamentals, mongodb, basics, php, html5",10.0%,0.99
+RES-F-023,J?,javascript,"css3, mysql, vue.js, git, node.js, apis, responsive, rest, design, basics, html5",11.11%,0.16
+RES-F-023,J?,javascript,"css3, angular, mysql, git, node.js, apis, rest, basics, python, html5",11.11%,0.36
+RES-F-023,J?,"javascript, react","css3, git, node.js, apis, responsive, mongodb, rest, design, basics, html5",11.11%,0.17
+RES-F-023,J?,javascript,"css3, angular, mysql, git, node.js, apis, rest, basics, php, html5",11.11%,0.37
+RES-F-023,J?,"javascript, react","css3, mysql, git, node.js, ajax, ui/ux, fundamentals, apis, rest, basics, html5",10.0%,0.18
+RES-F-023,J?,javascript,"css3, vue.js, git, node.js, ajax, apis, mongodb, rest, basics, html5",11.11%,0.24
+RES-F-023,J?,"javascript, react","ci/cd, express.js, node.js, aws, sql, apis, typescript, mongodb, rest, graphql, docker",16.67%,0.03
+RES-F-023,J?,javascript,"angular, ci/cd, express.js, node.js, aws, with, sql, typescript, redis, jest, testing, docker, django",8.33%,0.06
+RES-F-023,J?,"javascript, react","express.js, node.js, aws, kubernetes, apis, mongodb, rest, graphql, docker",20.0%,0.01
+RES-F-023,J?,javascript,"jest/enzyme, express.js, node.js, with, aws, sql, typescript, redis, testing, docker, vue.js",10.0%,0.08
+RES-F-023,J?,"javascript, react","ci/cd, express.js, node.js, aws, sql, kubernetes, mongodb, graphql, docker",18.18%,0.08
+RES-F-023,J?,javascript,"angular, ci/cd, express.js, node.js, aws, sql, frameworks, redis, testing, docker, django",9.09%,0.07
+RES-F-023,J?,"javascript, react","express.js, node.js, sql, kubernetes, apis, typescript, mongodb, rest, graphql, docker",18.18%,0.03
+RES-F-023,J?,javascript,"ci/cd, express.js, node.js, jest/enzyme, aws, with, sql, redis, testing, docker, vue.js",10.0%,0.07
+RES-F-023,J?,"javascript, react","express.js, node.js, aws, kubernetes, apis, mongodb, rest, graphql, docker",20.0%,0.01
+RES-F-023,J?,javascript,"angular, ci/cd, express.js, node.js, jest/enzyme, aws, with, sql, typescript, redis, testing, docker",9.09%,0.06
+RES-F-024,J?,aws,"ci/cd, security, pipelines, cloud, kubernetes, terraform, scripting, compliance, azure, python",14.29%,0.22
+RES-F-026,J?,"asp.net, sql, c#, server, mvc","git, entity, fundamentals, javascript, unit, html, vb.net, studio, framework, core, visual, testing, basics, css, .net, linq",26.67%,45.0
+RES-F-026,J?,"sql, asp.net, server, c#","razor, javascript, html, nunit, framework, css, basics, entity, .net",30.0%,98.45
+RES-F-026,J?,"asp.net, sql, c#, server, mvc","git, javascript, html, vb.net, core, basics, css, .net",22.22%,58.67
+RES-F-026,J?,"sql, asp.net, server, c#","html, studio, framework, visual, basics, css, .net, linq",25.0%,28.92
+RES-F-026,J?,"asp.net, sql, c#, server, mvc","entity, javascript, html, framework, basics, css",50.0%,70.33
+RES-F-026,J?,"sql, asp.net, server, c#","razor, git, nunit, framework, basics, .net",42.86%,86.98
+RES-F-026,J?,"asp.net, sql, c#, server, mvc","html, studio, vb.net, core, visual, basics, css, .net",25.0%,9.15
+RES-F-026,J?,"asp.net, sql, c#, server, mvc","framework, basics, entity, .net, linq",33.33%,67.96
+RES-F-026,J?,"sql, asp.net, server, c#","css, html, .net, framework",50.0%,72.06
+RES-F-026,J?,"asp.net, sql, c#, server, mvc","git, framework, core, basics, entity, .net",33.33%,57.68
+RES-F-026,J?,"asp.net, sql, c#, server, mvc","apis, framework, rest, core, azure, entity, docker, .net",25.0%,4.36
+RES-F-026,J?,"sql, asp.net, server, c#","patterns, devops, principles, framework, solid, core, design, azure, entity",28.57%,4.3
+RES-F-026,J?,"asp.net, mvc, c#","f#, kubernetes, microservices, core, azure, docker, .net",12.5%,1.07
+RES-F-026,J?,"sql, asp.net, server, c#","nosql, webapi, framework, core, signalr, entity",28.57%,8.75
+RES-F-026,J?,"asp.net, sql, c#, server, mvc","angular, dapper, core, blazor, .net",28.57%,4.38
+RES-F-026,J?,"asp.net, mvc, c#","devops, with, nunit, apis, rest, core, azure, testing, docker, .net",14.29%,0.35
+RES-F-026,J?,"sql, asp.net, server, c#","grpc, core, azure, webapi",33.33%,61.98
+RES-F-026,J?,"asp.net, c#","principles, kubernetes, microservices, framework, solid, core, azure, entity",14.29%,1.33
+RES-F-026,J?,"asp.net, mvc, c#","with, xunit, core, azure, testing, .net, moq",16.67%,1.49
+RES-F-026,J?,"asp.net, mvc, c#","devops, ci/cd, kubernetes, apis, rest, core, azure, docker, .net",12.5%,0.25
+RES-F-029,J?,"basics, python, linux, firewall","incident, encryption, wireshark, c++, nessus, snort, response, configuration",11.11%,1.44
+RES-F-029,J?,"python, security","incident, (aws/azure), bash, management, splunk, cloud, threat, response, qradar, hunting, risk",12.5%,0.44
+RES-F-033,J?,"javascript, react","css3, angular, mysql, git, ui/ux, ajax, node.js, fundamentals, apis, github, responsive, mongodb, restful, design, basics, php, html5",6.67%,1.24
+RES-F-033,J?,javascript,"css3, mysql, vue.js, git, node.js, json, apis, responsive, rest, design, basics, python, html5",9.09%,0.29
+RES-F-033,J?,"javascript, react","css3, angular, mysql, git, node.js, ajax, apis, rest, basics, html5",10.0%,0.29
+RES-F-033,J?,"javascript, react","css3, git, node.js, ajax, ui/ux, fundamentals, mongodb, basics, php, html5",10.0%,1.05
+RES-F-033,J?,javascript,"css3, mysql, vue.js, git, node.js, apis, responsive, rest, design, basics, html5",11.11%,0.17
+RES-F-033,J?,javascript,"css3, angular, mysql, git, node.js, apis, rest, basics, python, html5",11.11%,0.39
+RES-F-033,J?,"javascript, react","css3, git, node.js, apis, responsive, mongodb, rest, design, basics, html5",11.11%,0.18
+RES-F-033,J?,javascript,"css3, angular, mysql, git, node.js, apis, rest, basics, php, html5",11.11%,0.4
+RES-F-033,J?,"javascript, react","css3, mysql, git, node.js, ajax, ui/ux, fundamentals, apis, rest, basics, html5",10.0%,0.19
+RES-F-033,J?,javascript,"css3, vue.js, git, node.js, ajax, apis, mongodb, rest, basics, html5",11.11%,0.25
+RES-F-033,J?,"javascript, react","ci/cd, express.js, node.js, aws, sql, apis, typescript, mongodb, rest, graphql, docker",16.67%,0.03
+RES-F-033,J?,javascript,"angular, ci/cd, express.js, node.js, aws, with, sql, typescript, redis, jest, testing, docker, django",8.33%,0.06
+RES-F-033,J?,"javascript, react","express.js, node.js, aws, kubernetes, apis, mongodb, rest, graphql, docker",20.0%,0.01
+RES-F-033,J?,javascript,"jest/enzyme, express.js, node.js, with, aws, sql, typescript, redis, testing, docker, vue.js",10.0%,0.08
+RES-F-033,J?,"javascript, react","ci/cd, express.js, node.js, aws, sql, kubernetes, mongodb, graphql, docker",18.18%,0.08
+RES-F-033,J?,javascript,"angular, ci/cd, express.js, node.js, aws, sql, frameworks, redis, testing, docker, django",9.09%,0.07
+RES-F-033,J?,"javascript, react","express.js, node.js, sql, kubernetes, apis, typescript, mongodb, rest, graphql, docker",18.18%,0.03
+RES-F-033,J?,javascript,"ci/cd, express.js, node.js, jest/enzyme, aws, with, sql, redis, testing, docker, vue.js",10.0%,0.08
+RES-F-033,J?,"javascript, react","express.js, node.js, aws, kubernetes, apis, mongodb, rest, graphql, docker",20.0%,0.01
+RES-F-033,J?,javascript,"angular, ci/cd, express.js, node.js, jest/enzyme, aws, with, sql, typescript, redis, testing, docker",9.09%,0.06
+RES-F-034,J?,azure,"ci/cd, aws, pipelines, cloud, kubernetes, security, terraform, scripting, compliance, python",14.29%,0.63
+RES-F-036,J?,"asp.net, sql, framework, c#, mvc, server, basics, entity","git, fundamentals, javascript, unit, html, vb.net, studio, core, visual, testing, css, .net, linq",33.33%,66.85
+RES-F-036,J?,"asp.net, sql, framework, c#, server, basics, entity","razor, javascript, html, nunit, css, .net",40.0%,99.36
+RES-F-036,J?,"asp.net, sql, c#, server, mvc, basics","git, javascript, html, vb.net, core, css, .net",22.22%,77.78
+RES-F-036,J?,"asp.net, sql, framework, c#, server, basics","html, studio, visual, css, .net, linq",25.0%,50.07
+RES-F-036,J?,"asp.net, sql, framework, c#, mvc, server, basics, entity","javascript, html, css",62.5%,85.39
+RES-F-036,J?,"asp.net, sql, framework, c#, server, basics","razor, nunit, git, .net",42.86%,94.27
+RES-F-036,J?,"asp.net, sql, c#, server, mvc, basics","html, studio, vb.net, core, visual, css, .net",25.0%,19.9
+RES-F-036,J?,"asp.net, sql, framework, c#, mvc, server, basics, entity",".net, linq",50.0%,83.94
+RES-F-036,J?,"asp.net, sql, framework, c#, server","html, .net, css",50.0%,86.41
+RES-F-036,J?,"asp.net, sql, framework, c#, mvc, server, basics, entity","git, core, .net",50.0%,77.07
+RES-F-036,J?,"asp.net, sql, framework, c#, mvc, server, entity","apis, rest, core, azure, docker, .net",25.0%,10.1
+RES-F-036,J?,"asp.net, sql, framework, c#, server, entity","patterns, devops, principles, solid, core, design, azure",28.57%,9.98
+RES-F-036,J?,"asp.net, mvc, c#","f#, kubernetes, microservices, core, azure, docker, .net",12.5%,2.6
+RES-F-036,J?,"asp.net, sql, framework, c#, server, entity","nosql, core, signalr, webapi",28.57%,19.12
+RES-F-036,J?,"asp.net, sql, c#, server, mvc","angular, dapper, core, blazor, .net",28.57%,10.15
+RES-F-036,J?,"asp.net, mvc, c#","devops, with, nunit, apis, rest, core, azure, testing, docker, .net",14.29%,0.87
+RES-F-036,J?,"sql, asp.net, server, c#","grpc, core, azure, webapi",33.33%,80.07
+RES-F-036,J?,"asp.net, entity, c#, framework","principles, kubernetes, microservices, solid, core, azure",14.29%,3.21
+RES-F-036,J?,"asp.net, mvc, c#","with, xunit, core, azure, testing, .net, moq",16.67%,3.6
+RES-F-036,J?,"asp.net, mvc, c#","devops, ci/cd, kubernetes, apis, rest, core, azure, docker, .net",12.5%,0.62
+RES-F-039,J?,"wireshark, python, linux, firewall","incident, encryption, snort, nessus, c++, response, basics, configuration",22.22%,0.7
+RES-F-039,J?,"python, security","incident, (aws/azure), bash, management, splunk, cloud, threat, response, qradar, hunting, risk",12.5%,0.21
+RES-F-043,J?,"javascript, react","css3, angular, mysql, git, ui/ux, ajax, node.js, fundamentals, apis, github, responsive, mongodb, restful, design, basics, php, html5",6.67%,1.17
+RES-F-043,J?,javascript,"css3, mysql, vue.js, git, node.js, json, apis, responsive, rest, design, basics, python, html5",9.09%,0.27
+RES-F-043,J?,"javascript, react","css3, angular, mysql, git, node.js, ajax, apis, rest, basics, html5",10.0%,0.28
+RES-F-043,J?,"javascript, react","css3, git, node.js, ajax, ui/ux, fundamentals, mongodb, basics, php, html5",10.0%,0.99
+RES-F-043,J?,javascript,"css3, mysql, vue.js, git, node.js, apis, responsive, rest, design, basics, html5",11.11%,0.16
+RES-F-043,J?,javascript,"css3, angular, mysql, git, node.js, apis, rest, basics, python, html5",11.11%,0.36
+RES-F-043,J?,"javascript, react","css3, git, node.js, apis, responsive, mongodb, rest, design, basics, html5",11.11%,0.17
+RES-F-043,J?,javascript,"css3, angular, mysql, git, node.js, apis, rest, basics, php, html5",11.11%,0.37
+RES-F-043,J?,"javascript, react","css3, mysql, git, node.js, ajax, ui/ux, fundamentals, apis, rest, basics, html5",10.0%,0.18
+RES-F-043,J?,javascript,"css3, vue.js, git, node.js, ajax, apis, mongodb, rest, basics, html5",11.11%,0.24
+RES-F-043,J?,"javascript, react","ci/cd, express.js, node.js, aws, sql, apis, typescript, mongodb, rest, graphql, docker",16.67%,0.03
+RES-F-043,J?,javascript,"angular, ci/cd, express.js, node.js, aws, with, sql, typescript, redis, jest, testing, docker, django",8.33%,0.06
+RES-F-043,J?,"javascript, react","express.js, node.js, aws, kubernetes, apis, mongodb, rest, graphql, docker",20.0%,0.01
+RES-F-043,J?,javascript,"jest/enzyme, express.js, node.js, with, aws, sql, typescript, redis, testing, docker, vue.js",10.0%,0.08
+RES-F-043,J?,"javascript, react","ci/cd, express.js, node.js, aws, sql, kubernetes, mongodb, graphql, docker",18.18%,0.08
+RES-F-043,J?,javascript,"angular, ci/cd, express.js, node.js, aws, sql, frameworks, redis, testing, docker, django",9.09%,0.07
+RES-F-043,J?,"javascript, react","express.js, node.js, sql, kubernetes, apis, typescript, mongodb, rest, graphql, docker",18.18%,0.03
+RES-F-043,J?,javascript,"ci/cd, express.js, node.js, jest/enzyme, aws, with, sql, redis, testing, docker, vue.js",10.0%,0.07
+RES-F-043,J?,"javascript, react","express.js, node.js, aws, kubernetes, apis, mongodb, rest, graphql, docker",20.0%,0.01
+RES-F-043,J?,javascript,"angular, ci/cd, express.js, node.js, jest/enzyme, aws, with, sql, typescript, redis, testing, docker",9.09%,0.06
+RES-F-044,J?,aws,"ci/cd, security, pipelines, cloud, kubernetes, terraform, scripting, compliance, azure, python",14.29%,0.22
+RES-F-046,J?,"asp.net, sql, c#, server, mvc","git, entity, fundamentals, javascript, unit, html, vb.net, studio, framework, core, visual, testing, basics, css, .net, linq",26.67%,45.0
+RES-F-046,J?,"sql, asp.net, server, c#","razor, javascript, html, nunit, framework, css, basics, entity, .net",30.0%,98.45
+RES-F-046,J?,"asp.net, sql, c#, server, mvc","git, javascript, html, vb.net, core, basics, css, .net",22.22%,58.67
+RES-F-046,J?,"sql, asp.net, server, c#","html, studio, framework, visual, basics, css, .net, linq",25.0%,28.92
+RES-F-046,J?,"asp.net, sql, c#, server, mvc","entity, javascript, html, framework, basics, css",50.0%,70.33
+RES-F-046,J?,"sql, asp.net, server, c#","razor, git, nunit, framework, basics, .net",42.86%,86.98
+RES-F-046,J?,"asp.net, sql, c#, server, mvc","html, studio, vb.net, core, visual, basics, css, .net",25.0%,9.15
+RES-F-046,J?,"asp.net, sql, c#, server, mvc","framework, basics, entity, .net, linq",33.33%,67.96
+RES-F-046,J?,"sql, asp.net, server, c#","css, html, .net, framework",50.0%,72.06
+RES-F-046,J?,"asp.net, sql, c#, server, mvc","git, framework, core, basics, entity, .net",33.33%,57.68
+RES-F-046,J?,"asp.net, sql, c#, server, mvc","apis, framework, rest, core, azure, entity, docker, .net",25.0%,4.36
+RES-F-046,J?,"sql, asp.net, server, c#","patterns, devops, principles, framework, solid, core, design, azure, entity",28.57%,4.3
+RES-F-046,J?,"asp.net, mvc, c#","f#, kubernetes, microservices, core, azure, docker, .net",12.5%,1.07
+RES-F-046,J?,"sql, asp.net, server, c#","nosql, webapi, framework, core, signalr, entity",28.57%,8.75
+RES-F-046,J?,"asp.net, sql, c#, server, mvc","angular, dapper, core, blazor, .net",28.57%,4.38
+RES-F-046,J?,"asp.net, mvc, c#","devops, with, nunit, apis, rest, core, azure, testing, docker, .net",14.29%,0.35
+RES-F-046,J?,"sql, asp.net, server, c#","grpc, core, azure, webapi",33.33%,61.98
+RES-F-046,J?,"asp.net, c#","principles, kubernetes, microservices, framework, solid, core, azure, entity",14.29%,1.33
+RES-F-046,J?,"asp.net, mvc, c#","with, xunit, core, azure, testing, .net, moq",16.67%,1.49
+RES-F-046,J?,"asp.net, mvc, c#","devops, ci/cd, kubernetes, apis, rest, core, azure, docker, .net",12.5%,0.25
